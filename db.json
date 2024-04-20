@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter",
+      "des": "Tập 2",
+      "id": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "truyện",
+      "des": "mo ta ngan"
+    }
+  ]
+}
